@@ -19,6 +19,6 @@ module.exports = (client) => {
         .setColor("2f3136");
             m.edit(embed)
           })
-    }, 30000);
+    }, 1800000);
   })
 }
